@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - Software Engineering
 - Neural Networks
 - Machine Learning
+- Robotics
 - Game Development
 
 # My most used languages are ...
