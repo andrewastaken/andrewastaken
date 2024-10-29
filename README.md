@@ -15,9 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 👀 I'm interested in ...
+-Software Engineering
+-Neural Networks
+-Machine Learning
+-Game Development
 
 ### My most used languages are ...
-C++
-Java
-Python
+-C++
+-Java
+-Python
 
+### 📫 How to reach me:
+andrewshenrocks@gmail.com
