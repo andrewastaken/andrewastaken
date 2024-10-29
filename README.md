@@ -1,4 +1,4 @@
-## Hi there 👋, I'm @andrewzshen
+### Hi there 👋, I'm @andrewzshen
 
 <!--
 **andrewastaken/andrewastaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 👀 I'm interested in ...
 
+### My most used languages are ...
+C++
+Java
+Python
 
