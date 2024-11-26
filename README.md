@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 - Python
 
 # 📫 How to reach me:
-andrewshenrocks@gmail.com
+andrewshen@ucsb.edu
